@@ -1,0 +1,53 @@
+.main-page {
+    background-image: url(../images/events-heavenly-header.jpg);
+    background-repeat: none;
+    background-size: cover;
+    height: 90vh;
+}
+
+.trans-bg {
+    background-color: rgba(255, 42, 85, 0.5);
+}
+
+.main-line {
+    font-size: 65px;
+}
+
+.singer {
+    background-color: rgb(230, 129, 132);
+    cursor: pointer;
+}
+
+.bg-singer {
+    background-color: #CCCCCC;
+    display: none;
+}
+
+.countdown {
+    background-image: url(../images/invitation-2508607__340.jpg);
+}
+.myicon{
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.myicon:hover{
+    background-color: red;
+    color: white;
+}
+.sidebar{
+    left: -260px;
+    top: 0px;
+    bottom: 0px;
+}
+.sidebar-text{
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.sidebar-text:hover{
+    color: darkred;
+}
+.sidebar-toggler{
+    top: 300px;
+    left: 5px;
+    cursor: pointer;
+}
